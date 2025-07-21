@@ -1,7 +1,7 @@
 {
   "name": "webflow-static",
   "scripts": {
-    "build": "next build"
+  "build": "NEXT_PRIVATE_LOAD_CONFIG=next.config.local.js next build"
   },
   "bin": {
     "opennextjs-cloudflare": "./opennextjs-cloudflare.js"
