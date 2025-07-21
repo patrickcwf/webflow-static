@@ -1,6 +1,6 @@
 {
   "cloud": {
-    "framework": "static",
+    "framework": "nextjs",
     "buildCommand": "npm run build",
     "outputDirectory": "."
   }
