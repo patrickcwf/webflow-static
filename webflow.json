@@ -1,0 +1,7 @@
+{
+  "cloud": {
+    "framework": "static",
+    "buildCommand": "npm run build",
+    "outputDirectory": "."
+  }
+}

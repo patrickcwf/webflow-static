@@ -1,0 +1,6 @@
+{
+  "name": "webflow-static",
+  "scripts": {
+    "build": "echo 'nothing to build'"
+  }
+}
