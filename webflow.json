@@ -1,7 +1,8 @@
 {
   "cloud": {
     "framework": "nextjs",
-    "buildCommand": "npm run build",
-    "outputDirectory": "."
+    "buildCommand": "next build",
+    "outputDirectory": ".",
+    "overrideConfig": false
   }
 }
