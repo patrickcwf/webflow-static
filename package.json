@@ -1,7 +1,7 @@
 {
   "name": "webflow-static",
   "scripts": {
-  "build": "NEXT_PRIVATE_LOAD_CONFIG=next.config.local.js next build"
+ "build": "echo 'module.exports={reactStrictMode:true}' > next.config.js && next build"
   },
   "bin": {
     "opennextjs-cloudflare": "./opennextjs-cloudflare.js"
