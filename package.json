@@ -7,6 +7,7 @@
     "opennextjs-cloudflare": "./opennextjs-cloudflare.js"
   },
   "devDependencies": {
-    "@opennextjs/cloudflare": "^1.5.2"
+    "@opennextjs/cloudflare": "^1.5.2",
+    "next": "^15.4.2"
   }
 }
