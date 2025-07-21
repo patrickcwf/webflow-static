@@ -1,7 +1,7 @@
 {
   "name": "webflow-static",
   "scripts": {
-    "build": "echo 'nothing to build'"
+    "build": "next build"
   },
   "bin": {
     "opennextjs-cloudflare": "./opennextjs-cloudflare.js"
