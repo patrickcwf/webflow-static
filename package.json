@@ -5,5 +5,8 @@
   },
   "bin": {
     "opennextjs-cloudflare": "./opennextjs-cloudflare.js"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "^1.5.2"
   }
 }
